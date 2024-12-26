@@ -16,6 +16,10 @@ liver_cirrhosis_prediction/
 ├── liver_cirrhosis.csv     # Dataset used to train the model 
 ├── model_training/         # Folder for model training scripts 
 ├── requirements.txt        # List of required dependencies
+├── Sample_output_images/   # Sample Output Images
+    ├──Stage1.png
+    ├──Stage2.png
+    ├──Stage3.png
 ```
 
 ## Installation
